@@ -5,3 +5,8 @@ function MyFunction(){
 function Welcome(){
     console.log('welcome')
 }
+
+
+function Somme(){
+    console.log('function somme')
+}
